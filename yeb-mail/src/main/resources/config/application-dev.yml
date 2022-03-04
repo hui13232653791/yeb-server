@@ -13,7 +13,7 @@ spring:
     # 授权码（在邮箱开通服务时获取）
     password: 你的邮箱授权码
     # 发送者邮箱地址
-    username: 你的邮箱
+    username: 你的邮箱地址
     # 端口（不同邮箱端口号不同）
     port: 25
 
