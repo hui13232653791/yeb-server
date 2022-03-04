@@ -5,7 +5,7 @@ server:
 spring:
   mvc:
     pathmatch:
-      # TODO 改配置解决Failed to start bean ‘documentationPluginsBootstrapper’; nested exception is java.lang.NullPointerException的问题
+      # TODO 该配置解决Failed to start bean ‘documentationPluginsBootstrapper’; nested exception is java.lang.NullPointerException的问题
       matching-strategy: ant_path_matcher
   # 数据源配置
   datasource:
