@@ -1,9 +1,9 @@
 # yeb-server
 
 #### 介绍
-云E办后端-https://gitee.com/hui13232653791/yeb-server
+云E办后端-https://github.com/hui13232653791/yeb-server
 
-云E办前端-https://gitee.com/hui13232653791/yeb-web
+云E办前端-https://github.com/hui13232653791/yeb-web
 
 ●主要技术：SpringBoot、SpringMVC、MybatisPlus、Lombok、EasyPOI、AutoGenerator、Swagger2、SpringSecurity、JWT、Kaptcha、Redis、RabbitMQ、WebSocket、MySQL 等。
 
